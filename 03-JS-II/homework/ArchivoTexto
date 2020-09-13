@@ -1,0 +1,22 @@
+
+
+
+ `for`
+
+ Un for es un bucle permite generar una repeticion de un mismo codigo varias veces con
+  distintas variables hasta obtener lo que se quiere.
+
+
+ Esta compuesto de 3 partes , una variable, un argumentop para que se dtenga el for, 
+ y como se debe incrementar esa variable
+
+ * `&&`, `||`, `!`
+
+ Son Operadores Logicos 
+
+ donde:
+
+ %% es igual a Y ... Es decir si pasa n "Y" t (deben pasar las dos)
+ || es igual a O ... Es decir si pasa n "O" t (Deebe pasar una sola)
+ ! es una negacion ... Es decir si "No" pasa n ( No debe pasar)
+ 
