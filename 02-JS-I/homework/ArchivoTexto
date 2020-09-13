@@ -1,0 +1,24 @@
+Variables
+
+Las variables es un dato que puede ser texto(string), numero, o un condicional verdadero o falso (booleanos).
+y que almacenan bajo un nombre, los datos pueden ir variando o no, pero siempre estaran identificados por un nombre.
+
+Strings
+
+Son datos de tipo texto , para escribirlos se debe colocar entre dos comillas
+
+Funciones (argumentos, `return`)
+
+Las funciones , es una herramienta que permite a travez de uno o varios argumento (un dato) que uno le da,
+ ejecutar un codigo(un proceso con los datos) y a partir de eso devolver otro dato
+
+Declaraciones `if`
+
+El If es una herrramienta que permite ejecutar el codigo siguiente solo si pasa o existe lo que 
+le indiquemos como argumento (es una funcion)
+
+Valores booleanos (`true`, `false`)
+
+Los valores booleanos, son condicionales , que sirven como indicadores de si algo es verdad o no. 
+Por ejemplo 2 > 3 eso es false , pórque es mentira.
+
